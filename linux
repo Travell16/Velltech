@@ -1,2 +1,2 @@
-# git commit -m “tell what you just did here” - this gives a message to the reviewer as to what was changed / edited 
+We can work on the same project and make changes without truly editing the master branch. To do this, you can create a ‘version 2’ or different branch. This helpful to edit prior to merging to the master. 
 
